@@ -1,1 +1,2 @@
-https://samples.openweathermap.org/data/2.5/forecast?q=${city}&appid=a1b3330505c01bda0e586568276b385e
+streamlit==1.2.0
+requests==2.26.0

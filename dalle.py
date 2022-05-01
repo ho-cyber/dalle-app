@@ -2,7 +2,7 @@ import requests
 import base64
 import streamlit as st
 
-URL = "https://itchy-panther-10.loca.lt"
+URL = "https://few-pans-stay-35-243-171-180.loca.lt"
 headers = {'Bypass-Tunnel-Reminder': "go",
            'mode': 'no-cors'}
 
